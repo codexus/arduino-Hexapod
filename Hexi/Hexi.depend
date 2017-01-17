@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1403433159 source:d:\arduino\projects\hexapod-robot\hexapod\hexi\hexi.ino
+	<Arduino.h>
+	"include/hexaLeg.h"
+	"src/fastFunc.ino"
+	<Servo.h>
+
+1371036701 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362990550 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362990550 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371036733 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362990550 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371036429 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362990550 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362990550 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362990550 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362990550 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362990550 d:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\variants\mega\pins_arduino.h
+	<avr/pgmspace.h>
+
+1403347991 d:\arduino\projects\hexapod-robot\hexapod\hexi\include\hexaleg.h
+	<Servo.h>
+	"lib/ServoEaser.h"
+
+1401489324 d:\arduino\projects\hexapod-robot\hexapod\hexi\lib\servoeaser.h
+	<Arduino.h>
+	<WProgram.h>
+	<Servo.h>
+
+1401153107 d:\arduino\projects\hexapod-robot\hexapod\hexi\src\fastfunc.ino
+
+1400757011 source:d:\arduino\projects\hexapod-robot\hexapod\hexi\lib\servoeaser.cpp
+	"ServoEaser.h"
+	<math.h>
+
+1401837253 source:d:\arduino\projects\hexapod-robot\hexapod\hexi\src\hexaleg.cpp
+	<Arduino.h>
+	"include/hexaLeg.h"
+
+1422317991 source:e:\arduino\projects\hexapod\hexi\lib\servoeaser.cpp
+	"ServoEaser.h"
+	<math.h>
+
+1422317991 e:\arduino\projects\hexapod\hexi\lib\servoeaser.h
+	<Arduino.h>
+	<WProgram.h>
+	<Servo.h>
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1422317993 e:\arduino\projects\hexapod\codeblocks\codeblocks\codeblocks\arduino\hardware\arduino\variants\mega\pins_arduino.h
+	<avr/pgmspace.h>
+
+1440462177 source:e:\arduino\projects\hexapod\hexi\src\hexaleg.cpp
+	<Arduino.h>
+	"include/hexaLeg.h"
+
+1422317991 e:\arduino\projects\hexapod\hexi\include\hexaleg.h
+	<Servo.h>
+	"lib/ServoEaser.h"
+
+1440465365 source:e:\arduino\projects\hexapod\hexi\hexi.ino
+	<Arduino.h>
+	"include/hexaLeg.h"
+	"src/fastFunc.ino"
+	<Servo.h>
+
+1422317991 e:\arduino\projects\hexapod\hexi\src\fastfunc.ino
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1422317993 e:\arduino\codeblocks\codeblocks\arduino\hardware\arduino\variants\mega\pins_arduino.h
+	<avr/pgmspace.h>
+
